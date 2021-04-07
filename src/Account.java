@@ -18,7 +18,7 @@ public abstract class Account implements BaseInterestRate{
 	 * interestRate - represents the base interest rate for all accounts 
 	 */
 	
-	//Field declarations go here
+
 	
 	String name;
 	String ssn;
